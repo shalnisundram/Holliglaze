@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/blue_sky"
+    tools:context=".MainActivity">
+
+
+
+
+    <Spinner
+        android:id="@+id/CookieSpinner"
+        android:background="@color/dark_green"
+        android:layout_width="110dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="150dp"
+        android:padding="16dp"
+        android:entries="@array/Cookies"/>
+
+
+    <Spinner
+        android:id="@+id/CakeSpinner"
+        android:background="@color/dark_green"
+        android:layout_width="210dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="190dp"
+        android:padding="16dp"
+        android:entries="@array/Cake"/>
+
+    <Spinner
+        android:id="@+id/CandySpinner"
+        android:background="@color/dark_green"
+        android:layout_width="310dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="280dp"
+        android:padding="16dp"
+        android:entries="@array/Candy"/>
+
+    <Spinner
+        android:id="@+id/PieSpinner"
+        android:background="@color/dark_green"
+        android:layout_width="412dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="0dp"
+        android:layout_marginTop="370dp"
+        android:padding="16dp"
+        android:entries="@array/Pie"/>
+
+    <Spinner
+        android:id="@+id/PastrySpinner"
+        android:layout_width="120dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="155dp"
+        android:layout_marginTop="470dp"
+        android:background="@color/brown"
+        android:entries="@array/Pastries"
+        android:padding="16dp" />
+
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="115dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/other_circle_button"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="200dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/other_circle_button"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="300dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/another_circle_button"
+        android:layout_marginLeft="300dp"
+        android:layout_marginTop="290dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="440dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/another_circle_button"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="415dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="200dp"
+        android:layout_marginTop="430dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="260dp"
+        android:layout_marginTop="350dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/another_circle_button"
+        android:layout_marginLeft="350dp"
+        android:layout_marginTop="400dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="250dp"
+        android:layout_marginTop="210dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/circle_button"
+        android:layout_marginLeft="70dp"
+        android:layout_marginTop="299dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/another_circle_button"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="370dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/other_circle_button"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="450dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/other_circle_button"
+        android:layout_marginLeft="205dp"
+        android:layout_marginTop="240dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/other_circle_button"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="365dp" />
+    <Button
+        android:layout_width="10dp"
+        android:layout_height="10dp"
+        android:background="@drawable/another_circle_button"
+        android:layout_marginLeft="328dp"
+        android:layout_marginTop="320dp" />
+
+
+
+
+
+
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

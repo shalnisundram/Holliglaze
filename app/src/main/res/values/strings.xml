@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HolidayBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="todo">TODO</string>
+    <string name="holiday">holiday</string>
+    <string name="cookies">Spinner</string>
+    <string-array name="Cookies">
+        <item>Cookies</item>
+        <item>Gingerbread Cookies</item>
+        <item>Sugar Cookie Cups</item>
+        <item>Chocolate Sablés</item>
+    </string-array>
+
+    <string-array name="Cake">
+        <item>Cake</item>
+        <item>Red Velvet Cake </item>
+        <item>Yule Log Cake</item>
+        <item>Fruit Cake</item>
+    </string-array>
+
+    <string-array name="Candy">
+        <item>Candy</item>
+        <item>Truffles</item>
+        <item>Peppermint Bark</item>
+        <item>Snowmen Pops</item>
+    </string-array>
+
+    <string-array name="Pie">
+        <item>Pie</item>
+        <item>Apple Pie</item>
+        <item>White Christmas Pie</item>
+        <item>Coconut Pie</item>
+    </string-array>
+
+    <string-array name="Pastries">
+        <item>Pastries</item>
+        <item>Tea Scones</item>
+        <item>Nutella Croissant</item>
+        <item>Rasberry Danish</item>
+    </string-array>
+
+</resources>
+
+
+
+
